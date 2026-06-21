@@ -1,0 +1,39 @@
+From: "PayPal Support" <noreply@paypa1-secure.com>
+Reply-To: refund-team@protonmail.com
+Return-Path: <bounce@paypa1-secure.com>
+To: victim@example.com
+Subject: [URGENT] Your PayPal Account Has Been Limited
+Date: Mon, 15 Jan 2024 09:23:41 +0000
+Message-ID: 
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-Originating-IP: 185.220.101.45
+Received: from mail.paypa1-secure.com (185.220.101.45)
+        by mx.example.com with SMTP; Mon, 15 Jan 2024 09:23:41 +0000
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Customer,</p>
+
+<p>We have detected unusual activity on your PayPal account. 
+Your account has been temporarily limited.</p>
+
+<p>To restore access, please verify your information immediately:</p>
+
+<a href="https://paypa1-secure.com/verify/account?token=abc123xyz">
+Click here to verify your account
+</a>
+
+<p>If you do not verify within 24 hours, your account will be suspended.</p>
+
+<p>You can also visit: http://malicious-redirect.ru/paypal/login</p>
+
+<p>Contact us at: support@paypa1-secure.com</p>
+
+<p>File attachment hash reference: 5d41402abc4b2a76b9719d911017c592</p>
+
+<p>Regards,<br>
+PayPal Security Team</p>
+</body>
+</html>
