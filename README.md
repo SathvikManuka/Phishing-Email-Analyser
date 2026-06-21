@@ -109,7 +109,7 @@ Report saved → reports/analysis_2024_report.md
 
 ## 📊 Sample Analysis Report
 
-See [`reports/sample_analysis_report.md`](reports/sample_analysis_report.md) for a full example of the structured output this tool generates.
+See [`reports/sample_analysis_report.md`](https://github.com/SathvikManuka/Phishing-Email-Analyser/blob/main/sample_analysis_report.md) for a full example of the structured output this tool generates.
 
 ---
 
